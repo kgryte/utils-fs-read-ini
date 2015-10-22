@@ -34,7 +34,7 @@ function onData( error, data ) {
 }
 ```
 
-The `function` accepts the same options as [`properties#parse`](https://github.com/gagle/node-ini#parse), except
+The `function` accepts the same options as [`properties#parse`](https://github.com/gagle/node-properties#parse), except
 
 -	`path` is __always__ `true`.
 -	`sections` is __always__ `true`.
